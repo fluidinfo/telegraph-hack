@@ -75,6 +75,58 @@ datasets = [
             ]
         ),
     },
+    {
+        'about': [
+            'Eurozone crisis',
+            'http://www.guardian.co.uk/politics/audio/2012/jun/07/politics-podcast-europe-germany-warsi',
+            'http://www.guardian.co.uk/business/2012/jun/07/eurozone-crisis-spain-auction-bailout-rescue',
+            'http://www.guardian.co.uk/business/2012/jun/07/germany-take-control-eurozone-crisis',
+            'http://www.guardian.co.uk/world/blog/2012/jun/07/david-owen-eu-remedy-referendum',
+            'http://www.guardian.co.uk/business/2012/jun/07/george-osborne-optimistic-spanish-banking',
+            'http://www.guardian.co.uk/commentisfree/cartoon/2012/jun/06/angela-merkel-eurozone-crisis',
+            'http://www.guardian.co.uk/commentisfree/2012/jun/06/euro-crisis-spain',
+            'http://www.huffingtonpost.co.uk/2012/06/07/david-cameron-british-taxpayers-will-not-rescue-greek-and-spanish-banks_n_1577937.html',
+            'http://www.huffingtonpost.co.uk/2012/06/07/george-osborne-britain-requires-safeguards-from-eurozone-banking-union_n_1576671.html',
+            'http://www.huffingtonpost.co.uk/2012/06/07/eurozone-crisis-david-cameron-angela-merkel-eurobonds_n_1576537.html',
+        ],
+        'data': dumps(
+            [
+                {
+                    'url': 'http://www.telegraph.co.uk/finance/debt-crisis-live/9315476/Debt-crisis-live.html',
+                    'title': 'Debt crisis: live',
+                    'publication-date': '7:48pm Jun 7'
+                },
+                {
+                    'url': 'http://www.telegraph.co.uk/news/politics/david-cameron/9317418/David-Cameron-We-wont-take-part-in-EU-banking-union-its-not-our-currency.html',
+                    'title': 'David Cameron: We won\'t take part in EU banking union - it\'s not our currency',
+                    'publication-date': '5:00pm Jun 7'
+                },
+                {
+                    'url': 'http://www.telegraph.co.uk/finance/financialcrisis/9316764/George-Osborne-hints-at-British-referendum-on-Europe.html',
+                    'title': 'George Osborne hints at British referendum on Europe',
+                    'publication-date': '1:35pm Jun 7'
+                },
+                {
+                    'url': 'http://www.telegraph.co.uk/news/worldnews/europe/eu/9314065/The-euros-guilty-men-are-now-steering-Europe-to-catastrophe.html',
+                    'title': 'The euro\'s \'guilty men\' are now steering Europe to catastrophe',
+                    'publication-date': '8:34pm Jun 6'
+                },
+            ]
+        ),
+    },
+    # {
+    #     'about': [
+    #     ],
+    #     'data': dumps(
+    #         [
+    #             {
+    #                 'url': '',
+    #                 'title': '',
+    #                 'publication-date': ''
+    #             },
+    #         ]
+    #     ),
+    # },
 ]
 
 for dataset in datasets:
