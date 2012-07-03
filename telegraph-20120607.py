@@ -13,6 +13,7 @@ datasets = [
         'about': [
             'euro 2012',
             'euro2012',
+            '#euro2012',
             'http://www.guardian.co.uk/football/2012/jun/07/euro-2012-england-jermain-defoe',
             'http://www.guardian.co.uk/football/blog/2012/jun/07/euro-2012-live-blog',
             'http://www.guardian.co.uk/football/blog/2012/jun/06/david-pleat-euro-2012-six-watch',
@@ -35,49 +36,49 @@ datasets = [
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/teams/england/9316621/Euro-2012-Rio-Ferdinand-omission-one-of-those-things-as-brother-Anton-refuses-to-join-condemnation.html',
                     'title': 'Rio Ferdinand omission \'one of those things\' as brother Anton refuses to join condemnation',
-                    'publication-date': '12:43pm Jun 7'
+                    'publicationDate': '12:43pm Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/competitions/european-championships-2012/9316448/Euro-2012-France-coach-Laurent-Blanc-surprised-at-Rio-Ferdinands-omission-from-Roy-Hodgsons-England-squad.html',
                     'title': 'France coach Laurent Blanc \'surprised\' at Rio Ferdinand\'s omission from Roy Hodgson\'s England squad',
-                    'publication-date': '12:21pm Jun 7'
+                    'publicationDate': '12:21pm Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/competitions/european-championships-2012/9311098/Euro-2012-Roy-Hodgsons-England-coaching-team.html',
                     'title': 'Euro 2012: Meet Roy Hodgson\'s England coaching team',
-                    'publication-date': '11:47am Jun 7'
+                    'publicationDate': '11:47am Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/competitions/european-championships-2012/9313263/Euro-2012-interactive-match-schedule.html',
                     'title': 'Euro 2012 interactive match schedule',
-                    'publication-date': '11:22am Jun 6'
+                    'publicationDate': '11:22am Jun 6'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/competitions/european-championships-2012/9316105/Euro-2012-England-striker-Jermain-Defoe-returns-home-after-death-of-his-father.html',
                     'title': 'England striker Jermain Defoe returns home after death of his father',
-                    'publication-date': '10:14am Jun 7'
+                    'publicationDate': '10:14am Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/teams/england/9315881/Euro-2012-FA-can-take-back-my-England-caps-if-proven-true-that-Terry-chosen-over-Ferdinand-because-of-race.html',
                     'title': 'FA can take back my England caps if proven true that Terry chosen over Ferdinand because of race',
-                    'publication-date': '8:47am Jun 7'
+                    'publicationDate': '8:47am Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/teams/england/9315368/Euro-2012-Patrice-Evra-amazed-Manchester-United-team-mate-Rio-Ferdinand-not-in-the-England-squad.html',
                     'title': 'Patrice Evra amazed Manchester United team-mate Rio Ferdinand not in the England squad',
-                    'publication-date': '6:05am Jun 7'
+                    'publicationDate': '6:05am Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/sport/football/teams/england/9315471/Euro-2012-Were-good-enough-to-reach-the-final-says-upbeat-Wayne-Rooney.html',
                     'title': 'We\'re good enough to reach the final, says upbeat Wayne Rooney',
-                    'publication-date': '11:30pm Jun 6'
+                    'publicationDate': '11:30pm Jun 6'
                 },
             ]
         ),
     },
     {
         'about': [
-            'Eurozone crisis',
+            'eurozone crisis',
             'http://www.guardian.co.uk/politics/audio/2012/jun/07/politics-podcast-europe-germany-warsi',
             'http://www.guardian.co.uk/business/2012/jun/07/eurozone-crisis-spain-auction-bailout-rescue',
             'http://www.guardian.co.uk/business/2012/jun/07/germany-take-control-eurozone-crisis',
@@ -94,22 +95,22 @@ datasets = [
                 {
                     'url': 'http://www.telegraph.co.uk/finance/debt-crisis-live/9315476/Debt-crisis-live.html',
                     'title': 'Debt crisis: live',
-                    'publication-date': '7:48pm Jun 7'
+                    'publicationDate': '7:48pm Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/news/politics/david-cameron/9317418/David-Cameron-We-wont-take-part-in-EU-banking-union-its-not-our-currency.html',
                     'title': 'David Cameron: We won\'t take part in EU banking union - it\'s not our currency',
-                    'publication-date': '5:00pm Jun 7'
+                    'publicationDate': '5:00pm Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/finance/financialcrisis/9316764/George-Osborne-hints-at-British-referendum-on-Europe.html',
                     'title': 'George Osborne hints at British referendum on Europe',
-                    'publication-date': '1:35pm Jun 7'
+                    'publicationDate': '1:35pm Jun 7'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/news/worldnews/europe/eu/9314065/The-euros-guilty-men-are-now-steering-Europe-to-catastrophe.html',
                     'title': 'The euro\'s \'guilty men\' are now steering Europe to catastrophe',
-                    'publication-date': '8:34pm Jun 6'
+                    'publicationDate': '8:34pm Jun 6'
                 },
             ]
         ),
@@ -122,7 +123,7 @@ datasets = [
     #             {
     #                 'url': '',
     #                 'title': '',
-    #                 'publication-date': ''
+    #                 'publicationDate': ''
     #             },
     #         ]
     #     ),

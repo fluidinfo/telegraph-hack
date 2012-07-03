@@ -55,22 +55,22 @@ datasets = [
                 {
                     'url': 'http://www.telegraph.co.uk/news/politics/9220928/Transcript-David-Cameron-on-Abu-Qatada-deadline-row.html',
                     'title': 'Transcript: David Cameron on Abu Qatada deadline row',
-                    'publication-date': '12:28pm April 23'
+                    'publicationDate': '12:28pm April 23'
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/news/politics/david-cameron/9220748/David-Cameron-Home-Office-did-check-with-European-Court-over-Abu-Qatada-deportation-deadline.html',
                     'title': 'David Cameron: Home Office did check with European Court over Abu Qatada deportation deadline',
-                    'publication-date': '11:40am April 23',
+                    'publicationDate': '11:40am April 23',
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/9219700/Theresa-May-facing-more-questions-over-Abu-Qatada-farce.html',
                     'title': 'Theresa May facing more questions over Abu Qatada farce',
-                    'publication-date': '6:30am April 23',
+                    'publicationDate': '6:30am April 23',
                 },
                 {
                     'url': 'http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/9215451/Qatada-free-in-days-after-May-got-the-date-wrong.html',
                     'title': 'Abu Qatada free in days after Theresa May got the date wrong',
-                    'publication-date': '10:00pm April 19',
+                    'publicationDate': '10:00pm April 19',
                 },
             ]
         ),
@@ -132,42 +132,42 @@ datasets = [
         'data': dumps(
             [
                 {
-                    "publication-date": "1:52pm April 20",
+                    "publicationDate": "1:52pm April 20",
                     "title": "Chelsea's 'battered' striker Didier Drogba out of Arsenal game - and could miss Barcelona return leg",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/chelsea/9216622/Chelseas-battered-striker-Didier-Drogba-out-of-Arsenal-game-and-could-miss-Barcelona-return-leg.html"
                 },
                 {
-                    "publication-date": "11:44am April 19",
+                    "publicationDate": "11:44am April 19",
                     "title": "Arsenal midfielder Mikel Arteta ruled out for rest of the season as Arsene Wenger faces midfield headache",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/arsenal/9213707/Arsenal-midfielder-Mikel-Arteta-ruled-out-for-rest-of-the-season-as-Arsene-Wenger-faces-midfield-headache.html"
                 },
                 {
-                    "publication-date": "9:00am April 17",
+                    "publicationDate": "9:00am April 17",
                     "title": "Arsenal midfielder Jack Wilshere to miss Euro 2012 finals",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/england/9208160/Arsenal-midfielder-Jack-Wilshere-to-miss-Euro-2012-finals.html"
                 },
                 {
-                    "publication-date": "8:37am April 17",
+                    "publicationDate": "8:37am April 17",
                     "title": "Arsenal manager Arsene Wenger blasts Wigan's time-wasting after 2-1 Premier League defeat at home",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/arsenal/9208414/Arsenal-manager-Arsene-Wenger-blasts-Wigans-time-wasting-after-2-1-Premier-League-defeat-at-home.html"
                 },
                 {
-                    "publication-date": "9:46pm April 16",
+                    "publicationDate": "9:46pm April 16",
                     "title": "Arsenal v Wigan Athletic: live",
                     "url": "http://www.telegraph.co.uk/sport/football/competitions/premier-league/9200076/Arsenal-v-Wigan-Athletic-live.html"
                 },
                 {
-                    "publication-date": "7:15am April 16",
+                    "publicationDate": "7:15am April 16",
                     "title": "Arsene Wenger supports Gary Neville's assertion that diving in English football spread from foreign players",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/arsenal/9205823/Arsene-Wenger-supports-Gary-Nevilles-assertion-that-diving-in-English-football-spread-from-foreign-players.html"
                 },
                 {
-                    "publication-date": "4:00pm April 13",
+                    "publicationDate": "4:00pm April 13",
                     "title": "Arsene Wenger: it is time for video technology in football",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/arsenal/9203162/Arsene-Wenger-it-is-time-for-video-technology-in-football.html"
                 },
                 {
-                    "publication-date": "9:09am April 13",
+                    "publicationDate": "9:09am April 13",
                     "title": "Arsenal midfielder Yossi Benayoun hails Robin van Persie and Chelsea's Fernando Torres as 'best strikers in world'",
                     "url": "http://www.telegraph.co.uk/sport/football/teams/arsenal/9201836/Arsenal-midfielder-Yossi-Benayoun-hails-Robin-van-Persie-and-Chelseas-Fernando-Torres-as-best-strikers-in-world.html"
                 }
@@ -215,37 +215,37 @@ datasets = [
         'data': dumps(
             [
                 {
-                    "publication-date": "8:23pm April 20",
+                    "publicationDate": "8:23pm April 20",
                     "title": "Simon Cowell has only one true love - himself ",
                     "url": "http://www.telegraph.co.uk/culture/tvandradio/simon-cowell/9216745/Simon-Cowell-has-only-one-true-love-himself.html"
                 },
                 {
-                    "publication-date": "10:45am April 23",
+                    "publicationDate": "10:45am April 23",
                     "title": "Britain's Got Talent: the best lines",
                     "url": "http://www.telegraph.co.uk/culture/tvandradio/britains-got-talent/9188943/Britains-Got-Talent-the-best-lines.html"
                 },
                 {
-                    "publication-date": "8:00am March 27",
+                    "publicationDate": "8:00am March 27",
                     "title": "Simon Cowell 'intruder arrested by armed police'",
                     "url": "http://www.telegraph.co.uk/culture/tvandradio/simon-cowell/9167086/Simon-Cowell-intruder-arrested-by-armed-police.html"
                 },
                 {
-                    "publication-date": "8:27pm March 25",
+                    "publicationDate": "8:27pm March 25",
                     "title": "Simon Cowell victim of 'aggravated burglary'",
                     "url": "http://www.telegraph.co.uk/culture/tvandradio/simon-cowell/9166175/Simon-Cowell-victim-of-aggravated-burglary.html"
                 },
                 {
-                    "publication-date": "7:00am March 20",
+                    "publicationDate": "7:00am March 20",
                     "title": "Alesha Dixon loving Britain's Got Talent role",
                     "url": "http://www.telegraph.co.uk/culture/tvandradio/britains-got-talent/9153295/Alesha-Dixon-loving-Britains-Got-Talent-role.html"
                 },
                 {
-                    "publication-date": "10:04am March 19",
+                    "publicationDate": "10:04am March 19",
                     "title": "Ant and Dec 'angry' with Simon Cowell over late arrival for Britain's Got Talent audition",
                     "url": "http://www.telegraph.co.uk/culture/tvandradio/simon-cowell/9152606/Ant-and-Dec-angry-with-Simon-Cowell-over-late-arrival-for-Britains-Got-Talent-audition.html"
                 },
                 {
-                    "publication-date": "April 6",
+                    "publicationDate": "April 6",
                     "title": "It's not too late for Simon Cowell's latest victim",
                     "url": "http://blogs.telegraph.co.uk/culture/stevesilverman/100062282/its-not-too-late-for-simon-cowells-latest-victim/"
                 }
